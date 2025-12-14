@@ -1,0 +1,19 @@
+{
+  "name": "ReceiptChain Token List",
+  "timestamp": "2025-01-01T00:00:00+00:00",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "tokens": [
+    {
+      "chainId": 137,
+      "address": "0xaC76Dcf44a6617e1986A9411f37AF74DDFdA4262",
+      "name": "ReceiptChain",
+      "symbol": "RCT",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/Jamiedehaven1/rct-assets-assets-/main/rct-256.png"
+    }
+  ]
+}
